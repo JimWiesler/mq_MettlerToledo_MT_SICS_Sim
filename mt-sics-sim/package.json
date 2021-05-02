@@ -1,0 +1,23 @@
+{
+  "name": "mt-sics-sim",
+  "version": "1.0.0",
+  "description": "Simulate serial MT-SICS mettler toledo scale",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JimWiesler/mq_MettlerToledo_MT_SICS_Sim.git"
+  },
+  "author": "Jim Wiesler",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JimWiesler/mq_MettlerToledo_MT_SICS_Sim/issues"
+  },
+  "homepage": "https://github.com/JimWiesler/mq_MettlerToledo_MT_SICS_Sim#readme",
+  "dependencies": {
+    "serialport": "^9.0.7"
+  }
+}
